@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.Container2 {
+    height: 40px;
+    width: 1700px;
+    margin: auto;
+    background-color: greenyellow;
+    align-items: center;
+    display: flex;
+}
+h4{
+    color: white;
+    margin-left: 200px;
+}
+.icons {
+    display: flex;
+    color: white;
+    font-size: 25px;
+    margin-left: 900px;
+}
+.icons2 {
+    margin-left: 15px;
+}

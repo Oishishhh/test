@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.All {
+  width: 1700px;
+  border: 2px solid rgb(230, 230, 230);
+  margin: auto;
+}
+.circle{
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  background-color: white;
+  margin: auto;
+  position: relative;
+  top: -30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+}
+.fon {
+  font-size: 30px;
+}
+.photo{
+  height: 170px;
+  width: 190px;
+  background-image: url(https://m.media-amazon.com/images/I/71PkTr5BEpL.jpg);
+  background-size: cover;
+}
